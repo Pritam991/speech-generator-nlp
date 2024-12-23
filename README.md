@@ -23,6 +23,13 @@ To run this project, ensure you have Python installed along with the following p
 - `numpy`
 - `matplotlib`
 
+
+## Future Enhancements
+1. Support for multi-channel audio.
+2. Integration with advanced signal processing techniques.
+3. Adding real-time speech-to-text features.
+
+
 ### Installation
 
 Install the required Python libraries using pip:
@@ -31,8 +38,5 @@ Install the required Python libraries using pip:
 pip install pyaudio numpy matplotlib
 
 
-### Future Enhancements
-1. Support for multi-channel audio.
-2. Integration with advanced signal processing techniques.
-3. Adding real-time speech-to-text features.
+
 
