@@ -31,7 +31,7 @@ Install the required Python libraries using pip:
 pip install pyaudio numpy matplotlib
 
 
-Future Enhancements
+### Future Enhancements
 1. Support for multi-channel audio.
 2. Integration with advanced signal processing techniques.
 3. Adding real-time speech-to-text features.
